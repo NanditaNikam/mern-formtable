@@ -6,6 +6,7 @@ const exphbs = require('express-handlebars');
 const bodyparser = require('body-parser');
 
 const employeeController = require('./controllers/employeeController');
+const port = process.env.PORT || 3000;
 
 var app = express();
 app.use(bodyparser.urlencoded({
@@ -21,3 +22,4 @@ app.listen(3000, () => {
 });
 
 app.use('/employee', employeeController);
+
