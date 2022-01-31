@@ -12,7 +12,7 @@ Content :
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/Node.js-Expess-MongoDB-CRUD.git
+$ git clone 
 $ cd Node.js-Expess-MongoDB-CRUD/project
 $ npm install
 ```
