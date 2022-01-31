@@ -12,7 +12,7 @@ Content :
 ## Get the Code
 
 ```
-$ git clone 
+$ git clone https://github.com/NanditaNikam/mern-formtable.git
 $ cd Node.js-Expess-MongoDB-CRUD/project
 $ npm install
 ```
