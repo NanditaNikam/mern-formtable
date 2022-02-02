@@ -11,7 +11,7 @@ var employeeSchema = new mongoose.Schema({
     mobile: {
         type: String
     },
-    city: {
+    hobbies: {
         type: String
     }
 });
